@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yunusemreyilmazz
-- 👀 I’m interested in REST API, Java development and mobile progrogramming.
+- 👀 I’m interested in REST API, Java development and mobile android progrogramming.
 - 📫 You can reach me via yunusemre2778@gmail.com
 
 <!---
